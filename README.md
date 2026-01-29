@@ -10,6 +10,11 @@ All of the documentation found in this repository covers all of our projects, de
 
 ---
 
+### Viewing
+To read through our documentation more easily, you can do so [here](https://devnbi.github.io/Documentation).
+
+---
+
 ### Download
 Below, you can download our documentation for offline viewing individually or as a ZIP archive:
 > [!NOTE]
